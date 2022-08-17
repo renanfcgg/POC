@@ -2,7 +2,7 @@ export default function Navbar() {
     return (
         <>
             <nav className="bg-purple-700 p-6">
-                <div className="w-4/5 m-auto flex items-center justify-between flex-wrap">
+                <div className="w-7/12 m-auto flex items-center justify-between flex-wrap">
                     <div className="flex items-center flex-shrink-0 text-white mr-6">
                         <span className="font-semibold text-xl tracking-tight">Tailwind CSS</span>
                     </div>
