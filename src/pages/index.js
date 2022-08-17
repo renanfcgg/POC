@@ -7,7 +7,7 @@ export default function Home({clients, photos}) {
   return (
     <>
       <Navbar />
-      <div className="h-96 flex justify-center items-center">
+      <div className="mt-20 h-96 flex justify-center items-center">
         <div className="xl p-8">
           <Cards clients={clients} />
         </div>
